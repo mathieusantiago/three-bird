@@ -1,5 +1,5 @@
 {
-  "name": "three-bird",
+  "name": "birdmmo",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./dist/server/server.js"
   },
-  "author": "Mathieu",
+  "author": "Sean Bradley",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
